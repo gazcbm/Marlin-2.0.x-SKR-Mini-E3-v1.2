@@ -2,9 +2,7 @@
 
 ## BLTouch Wiring
 
-![1570702845960](docs/1570702845960.png)
-
-
+<img align="top" src="docs/1570702845960.png" />
 
 ## BLTouch Mount
 
