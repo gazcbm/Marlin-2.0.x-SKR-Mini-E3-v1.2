@@ -2,7 +2,7 @@
 
 ## BLTouch Wiring
 
-![1570702845960](C:\Users\gareth.darby\Desktop\Marlin-2.0.x-SKR-Mini-E3-v1.2\docs\1570702845960.png)
+![1570702845960](docs/1570702845960.png)
 
 
 
