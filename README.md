@@ -1,5 +1,17 @@
 # SKR MINI E3 v1.2 board Marlin 2.0 firmware for an Ender 3 Pro w/BLtouch (Standard mount) #
 
+## BLTouch Wiring
+
+![1570702845960](C:\Users\gareth.darby\Desktop\Marlin-2.0.x-SKR-Mini-E3-v1.2\docs\1570702845960.png)
+
+
+
+## BLTouch Mount
+
+https://www.thingiverse.com/thing:3068970
+
+
+
 Marlin 3D Printer Firmware
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
