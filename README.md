@@ -13,7 +13,7 @@ According to the official Antclabs documents the wiring colour used is as shown 
  If you have a BLtouch with different colours, the SKR Mini E3 pinouts you need are
 <img align="top" src="docs/mini-pins.JPG" />
 
-For those with Yellow, Blue and Red wires to your servo post, they should be in that order.
+For those with Red, Blue and Yellow wires to your servo post, they should be in that order.
 
 
 
