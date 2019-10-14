@@ -17,8 +17,6 @@ Bigtreetech have recommended that the BL touch be plugged into the Z-stop and Se
  If you have a BLtouch with different colours, the SKR Mini E3 pinouts you need are
 <img align="top" src="docs/mini-pins.JPG" />
 
-For those with Red, Blue and Yellow wires to your servo post, they should be in that order.
-
 
 
 ## BLtouch Troubleshooting 
@@ -74,7 +72,7 @@ Credit to [MrPeaski](https://www.reddit.com/user/MrPeaski/) for pointing out thi
 
 ## Did this help you?
 
-If this guide was of some use, please consider buying me a coffee.  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ADET3SXGZ9BNU)
+If you found this guide useful, please consider buying me a coffee.  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ADET3SXGZ9BNU)
 
 
 
