@@ -4,11 +4,15 @@
 
 Bigtreetech have recommended that the BL touch be plugged into the Z-stop and Servo ports and therefore the firmware has been configured as such.
 
+<u>**Antclabs Bltouch**</u>
 <img align="top" src="docs/1570702845960.png" />
 
 
 
-According to the official Antclabs documents the wiring colour used is as shown as above.  Since posting this repo, a number of people have reached out asking about about probes that are using different colour wires.  
+<u>**Creality BLtouch**</u> - Many thanks to [nickwebcouk](https://github.com/nickwebcouk) for the info.
+<img align="top" src="docs/crealitybltouch.jpg" />
+
+<u>**Others?**</u>
 
  If you have a BLtouch with different colours, the SKR Mini E3 pinouts you need are
 <img align="top" src="docs/mini-pins.jpg" />
@@ -24,11 +28,13 @@ Just a few points from my experiences.
 
 
 
-## BLTouch Mount
+## BLTouch Mount & Spacer
 
-<img align="top" src="docs/blmount.jpg" />
+<img align="top" src="docs/blmount.jpg" /><img align="top" src="docs/bltouchwithspacer.jpg" />
 
-https://www.thingiverse.com/thing:3068970
+**Bltouch mount** https://www.thingiverse.com/thing:3068970
+
+**Bltouch spacer** https://www.thingiverse.com/thing:3466223
 
 If you use a different mount, just make sure you update the offsets and recompile.  You can find these in the in **configuration.h**
 
@@ -60,6 +66,8 @@ If you use a different mount, just make sure you update the offsets and recompil
 
 For help with measuring this, check this Teaching Tech video https://youtu.be/sUlqrSq6LeY?t=400
 
+Credit to [MrPeaski](https://www.reddit.com/user/MrPeaski/) for pointing out this cool BLtouch calibration tool that may help you setting up your probe measurements.... https://www.thingiverse.com/thing:3330245
+
 
 
 ## Did this help you?
@@ -72,7 +80,13 @@ If this guide was of some use, please consider buying me a coffee.  [![Donate](h
 
 ## Revision History
 
-13-Oct-2019	- Added **FAN_SOFT_PWM** recommendation from Bigtreetech
+**14-Oct-2019**	- Updated Readme.md with
+
+1. Wiring diagram for Creality BLTouch (Thanks Nickwebcouk)
+2. Additional info about the BLTouch spacer I use.
+3. Link to BLTouch calibration tool (Thanks MrPeaski)						
+
+**13-Oct-2019**	- Added **FAN_SOFT_PWM** recommendation from Bigtreetech
 
 
 
