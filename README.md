@@ -9,7 +9,7 @@ Bigtreetech have recommended that the BL touch be plugged into the Z-stop and Se
 
 
 
-<u>**Creality BLtouch**</u> - Many thanks to [nickwebcouk](https://github.com/nickwebcouk) for the info.
+<u>**Creality BLtouch**</u> - Many thanks to [nickwebcouk](https://github.com/nickwebcouk) for the info. Make sure to double check your pins, the red and blue have been reported as needing to be switched.
 <img align="top" src="docs/crealitybltouch.jpg" />
 
 <u>**Others?**</u>
